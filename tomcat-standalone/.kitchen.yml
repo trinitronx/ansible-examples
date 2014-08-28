@@ -8,6 +8,7 @@ provisioner:
   hosts: tomcat-servers
   require_ansible_repo: true
   ansible_verbose: true
+  sudo: true
   extra_vars:
     a: b
 
