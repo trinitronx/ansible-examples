@@ -24,3 +24,5 @@ platforms:
 
 suites:
  - name: default
+   provisioner:
+     playbook: site.yml
