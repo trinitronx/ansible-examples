@@ -8,5 +8,5 @@ https_port: 8443
 admin_username: admin
 admin_password: adminsecret
 
-tomcat_url: http://www.carfab.com/apachesoftware/tomcat/tomcat-7/v7.0.55/bin/apache-tomcat-7.0.55.tar.gz
-tomcat_version: 7.0.55
+tomcat_url: http://archive.apache.org/dist/tomcat/tomcat-7/v7.0.61/bin/apache-tomcat-7.0.61.tar.gz
+tomcat_version: 7.0.61
